@@ -20,6 +20,5 @@ def generatecode(num, prefixnum, postnum):
 
 if __name__ == '__main__':
     l = generatecode(200, 6, 10)
-
     for s in l:
         print(s)
